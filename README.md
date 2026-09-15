@@ -2,6 +2,8 @@
 
 This repository contains the Julia source code for the two-level-system examples presented in our work ``Achieving the Quantum Limits with Twin-Field Sensors".
 
+http://arxiv.org/abs/2609.07517
+
 ## Model
 
 We consider a pair of driven two-level systems with opposite detunings,
